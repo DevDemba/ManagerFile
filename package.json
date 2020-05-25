@@ -1,0 +1,15 @@
+{
+  "name": "manager_files_electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016\u001b[2~https://github.com/DevDemba/ManagerFile.git"
+  },
+  "author": "Demba",
+  "license": "ISC"
+}
